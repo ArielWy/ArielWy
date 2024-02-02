@@ -1,6 +1,5 @@
 # 💫 About Me:
 💻 An Israeli Developer
-usually I'm posting  here plugins and discord bots
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArielWy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

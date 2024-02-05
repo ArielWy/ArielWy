@@ -1,6 +1,6 @@
 # 💫 About Me:
-I usually make here Minecraft mods, plugin and discord bots.
-💻 An Israeli Developer
+I usually make here Minecraft mods, plugin and discord bots.<br>
+💻 An Israeli Developer<br>
 feel free to contact me if you need anything
 ---
 <div align="center">

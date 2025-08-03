@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ariel
 
-Hi! I’m Ariel, I'm a developer mostly focused on custom Minecraft plugins, game mechanics, and server-side tooling. I’ve worked with small servers and individual clients to bring their ideas to life through clean, efficient code and solid design.
+Hi! I’m Ariel, a developer specializing in custom Minecraft plugins, unique game mechanics, and server-side tooling. I’ve collaborated with small servers and individual clients to bring their ideas to life through clean, efficient code and solid design.
 
 I specialize in:
 - 🧱 Custom Minecraft plugins (Spigot, Paper)

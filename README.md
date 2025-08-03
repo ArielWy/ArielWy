@@ -13,7 +13,7 @@ I specialize in:
 
 ## 🚀 Featured Projects
 
-### 🔒 [AreaLock](https://github.com/ArielWy/AreaLock)
+### 🔒 [RegionLock](https://github.com/ArielWy/AreaLock)
 Lock areas with invisible walls using fake block packets.
 - Uses ProtocolLib to render fake blocks client-side
 - Prevents certain players from entering without visible barriers

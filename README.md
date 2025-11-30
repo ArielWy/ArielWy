@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ariel
 
-Hi! I’m Ariel, a developer specializing in custom Minecraft plugins, unique game mechanics, and server-side tooling. I’ve collaborated with small servers and individual clients to bring their ideas to life through clean, efficient code and solid design.
+Hi! I’m Ariel, a developer focused on creating high quality Minecraft plugins, custom game mechanics, and server-side tools. I’ve worked with a variety of servers and individual clients, helping turn their ideas to life through clean and efficient code and we'll structured design.
 
 I specialize in:
 - 🧱 Custom Minecraft plugins (Spigot, Paper)
@@ -14,7 +14,7 @@ I specialize in:
 ## 🚀 Featured Projects
 
 ### 🔒 [RegionLock](https://github.com/ArielWy/AreaLock)
-Lock areas with invisible walls using fake block packets.
+Lock areas with invisible walls using block packets manipulation.
 - Uses ProtocolLib to render fake blocks client-side
 - Prevents certain players from entering without visible barriers
 - Demonstrates low-level packet use and region protection logic

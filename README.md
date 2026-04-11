@@ -48,7 +48,7 @@ A donkey becomes the moving center of the world border.
 - **Build Tools**: Maven, Gradle  
 - **Tools**: IntelliJ IDEA, Git  
 - **Web**: Next.js (React), Tailwind CSS  
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL, SQLite, redis
 
 ---
 
